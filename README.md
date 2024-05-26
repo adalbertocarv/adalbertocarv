@@ -13,3 +13,5 @@ Opa! Eu sou o Adalberto Carvalho!
   <img align="center" alt="Adalbis-Flutter" height="28" width="98" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center" alt="Adalbis-Dart" height="28" width="75" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </div>
+
+![snake gif](https://github.com/adalbertocarv/adalbertocarv/blob/output/github-contribution-grid-snake.gif)
